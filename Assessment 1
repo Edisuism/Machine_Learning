@@ -1,0 +1,62 @@
+A Mathematical Theory of Communication
+
+Content 
+
+Shannon’s work in ‘A Mathematical Theory of Communication’ builds upon the methodologies of communication where he lays out what he deems to be the fundamental principles of the field which are: 
+An Information source which produces the message
+A transmitter which alters the message into a state that can be transmitted
+A channel which describes the medium in which the message is transmitted
+A receiver which decodes the message received 
+A destination which is the subject in which the message was intended for
+By doing so, he aims to create the most efficient method possible in communicating data from one point to another. 
+
+His paper begins by introducing the concept of bits to represent the fundamental unit of data in the form of logarithms to the base 2 and then begins to explore the components of the discrete noiseless system which spans a majority of the paper. This section initiates with an assessment of how to break down an information source to be represented by the most compact signals possible. In the English language, this involved representing the most frequently used letters with the smallest possible bit and through approximations, the same for the most frequent letter to follow the first (building on Markov processes). These messages will then need to be sent through a channel which is where most problems to communication comes from. This is as a result of noise which can disrupt data and cause errors to be included when sent to a receiver. Shannon introduces the use of an observer here to analyse the input and output of the channel to ensure accuracy and if errors occur, fix them. To tackle this problem of noise, Shannon also introduces various other concepts such as information redundancy, entropy and the rate of transmission which work in conjunction to deliver data efficiently.
+
+In the second half of this paper, he explores the different considerations required of his model to account for continuous data which include representing them using an ensemble of functions and working with a derived quantity of entropy which he called entropy power rather than the entropy of an ensemble. In addition, continuously variable quantities have an infinite amount of possible values and will require a similar amount of binary to be exactly specified. By developing a formulation of fidelity of transmission, it is possible to assess how undesirable certain data is to be received incorrectly and weight them according to importance. Shannon concludes his paper with a theorem that explores the maximum rate of transmission for a given system with respect to bandwidth, noise and power.
+
+Innovation
+
+Through attempting to improve the efficiency of communicating messages between two points, Shannon also builds on areas such as ‘Morse Code’ by representing lesser used data such as the letter ‘z’ with larger bits as to allow representation of more commonly used data such as the letter ‘a’ to be conveyed using fewer bits. This can be further built upon by encoding not just a single letter at a time but by words or multiple words at a time (for example by representing the most common letter to follow a letter with a shorter bit such as perhaps assigning a short bit to the letter ‘n’ if it follows the letter ‘i’) based on Markoff processes in which any given state X  has a given probability to go to another state Y. This idea of representing the basic components of data as bits was innovative and made this work seminal, allowing for new ways to apply mathematics for both quantitative and qualitative pieces of data. 
+
+In addition, Shannon introduces the concept of noise as a form of entropy to communication which is anything that disrupts of affects the accuracy of data being transported from one location to another. Before the release of Shannon’s work, much of this knowledge would be designed for the field of thermodynamics, specifically in the area of entropy as a measure of energy in a process that cannot be used. This concept would see practical applications as being used as part of the Shannon–Hartley theorem which calculates the hypothetical maximum rate of data that can be delivered through a channel. 
+
+In this area of communication, Shannon explores the necessity of a correction channel to improve the rate of transmission by having an observer that can examine the output of the transmitter and the input of the receiver. This is in order to reduce the amount of errors being communicated as the observer would be able to compare what is sent to what is being received and fix most of the errors.
+
+
+Technical quality
+
+The Technical quality of this paper is very high with supporting equations for each of his theories and a motif of equation reuse throughout the paper, that is, instead of only constructing original formulas, he develops upon those made previously by other academics or simply uses them as they are already deemed well refined. Examples of this can be found in page 27 where he explores the use of efficient code in allowing complete correction of errors and transmitting at the rate C found by a method due to R. Hamming as well as on page 34 where he begins his application of Wiener’s work on linear prediction and filtration problems. Furthermore, his incorporation of Hartley’s idea to use logarithms to select items from a finite set was a strong point as using log base 2 is well fit to represent his introduction of bits due to their boolean nature.
+
+His introduction of noise into communication theory though new presents little problems in technical possibility. Especially impressive was understanding of how noise introduces more errors into communication than a flat rate. This was thanks to his effective incorporation of entropy into the equation of the rate of actual transmission by assessing the data that is actually missing. As a result, he overcomes the issue of the ambiguity of where errors are introduced by noise.
+
+Most importantly, Shannon’s theorem in assessing the rate of transmission R for a channel proves to be applicable for practical scenarios and not does not only present theoretical promise. His formula reflects how as noise N increases, the log result will approach 0 which when multiplied with the bandwidth will give a result also close to 0 while as power Q increases, the log result increases which multiplies the result of bandwidth resulting in a higher rate of transmission. 
+
+
+Application and X-factor
+
+I find the application of Shannon’s formula for noise and hypothetical channel capacity to be relevant to the area of information and communication theory as it well encapsulates the barriers faced in it’s applications. This can be seen in today’s use of WIFI across many devices such as phones and laptops to access the internet without cables. This use of wireless technology emphasises the problem posed by noise in disrupting communication and makes ambiguous how much communication of data can be improved. Shannon’s hypothetical channel capacity makes this clear, creating a benchmark for communication efficiency allowing developers to determine whether their systems can be made more efficient or whether it is not efficient to do so.
+
+This formula for noise in addition to his exploration of discrete noiseless systems could be applied in more cases in the modern era such as in enhancing machine learning and AI efficiency. For example if there was an AI that searches for the location of restaurants nearby using visual input and learns them for the future. Consider the visual information the AI receives that are restaurants to be an information source. As this reaches the AI, it can be imagined that the visual data is also cluttered by noise such as cars and other irrelevant buildings. By considering it this way, it could be possible to assess transmission limits as in the paper and develop AI accordingly.
+
+Shannon’s exploration of discrete noiseless systems, especially his use of Markoff processes in determining the most efficient methods of representing data. His demonstration of Markoff processes in approximating the English language had strong results that resembled a normal sentence which could be applied to AI in order to develop more meaningful sentences and paragraphs. Though Shannon mentions taking the approximations further than second-order word approximations would be incredibly labor intensive, an AI could be trained to do these tasks and combined with modern computational power could make this efficient as well. A method of doing so could involve providing training data to the AI in the form of novels and assigning each certain attributes that classify it such as genre. By assessing sentence and paragraph structure as well as how they fit into the grand scheme of a novel, it could be expected to write believable stories. AI that performs similar functions already exist in the form of the GPT-2 algorithm developed by OpenAI which has the ability to predict the next word in a sentence with strong results. However it lacks cohesion with the text as a whole as it only assesses the place of a word within a sentence rather than within the whole paragraph. By developing english approximations and building on Markoff processes, AI could eventually be made to develop meaningful paragraphs and even stories.
+
+Presentation
+
+The paper was well presented with mathematical equations following his explanations of the topics covered in the paper with create a context in which they could be explored. This opposite can also be found where Shannon displays an equation which is then further explored for more clarity afterwards through words. The paper follows this structure of Context > Exploration > Explanation throughout its length which works incredibly well in introducing a topic, exploring it and then setting up for the next one. As a result, the reader is well-guided through each topic and can easily see Shannon’s theorems being progressively developed. It could however be improved by increasing the depth of his explanations especially in Part 3’s Mathematical Preliminaries and Part 4’s exploration of the continuous channel. The aforementioned fluidity of his paper was strained in these portions of the paper as they were disconnected from the previous exploration of discrete channels and explanations of the equations he developed became significantly more complex without a sufficient increase in explanation.
+
+References
+
+George Markowsky, Applications of Information Theory, Britannica, viewed 14/08/19, 
+<https://www.britannica.com/science/information-theory/Applications-of-information-theory>
+Wikipedia, Information Theory, Wikipedia, viewed 14/08/19, 
+<https://en.m.wikipedia.org/wiki/Information_theory>
+Internet-class 2016, What is the Shannon capacity theorem?,  Youtube, viewed 27/08/19, 
+<https://www.youtube.com/watch?v=ancDN11C2vg>
+Info OSOU 2018, SHANNON & WEAVER MODEL FOR COMMUNICATION, Youtube, viewed 27/08/19, 
+<https://www.youtube.com/watch?v=rkLq3bW3eck>
+James Vincent 2019, OPENAI’S NEW MULTITALENTED AI WRITES, TRANSLATES, AND SLANDERS, The Verge, viewed 28/08/19, 
+<https://www.theverge.com/2019/2/14/18224704/ai-machine-learning-language-models-read-write-openai-gpt2>
+
+
+
+
