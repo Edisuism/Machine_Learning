@@ -1,0 +1,888 @@
+Name,Pclass,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Fare,Survived
+Mr. Owen Harris Braund,3,male,22,1,0,7.25,Yes
+Mrs. John Bradley (Florence Briggs Thayer) Cumings,1,female,38,1,0,71.2833,No
+Miss. Laina Heikkinen,3,female,26,0,0,7.925,No
+Mrs. Jacques Heath (Lily May Peel) Futrelle,1,female,35,1,0,53.1,No
+Mr. William Henry Allen,3,male,35,0,0,8.05,Yes
+Mr. James Moran,3,male,27,0,0,8.4583,Yes
+Mr. Timothy J McCarthy,1,male,54,0,0,51.8625,Yes
+Master. Gosta Leonard Palsson,3,male,2,3,1,21.075,Yes
+Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson,3,female,27,0,2,11.1333,No
+Mrs. Nicholas (Adele Achem) Nasser,2,female,14,1,0,30.0708,No
+Miss. Marguerite Rut Sandstrom,3,female,4,1,1,16.7,No
+Miss. Elizabeth Bonnell,1,female,58,0,0,26.55,No
+Mr. William Henry Saundercock,3,male,20,0,0,8.05,Yes
+Mr. Anders Johan Andersson,3,male,39,1,5,31.275,Yes
+Miss. Hulda Amanda Adolfina Vestrom,3,female,14,0,0,7.8542,Yes
+Mrs. (Mary D Kingcome) Hewlett,2,female,55,0,0,16,No
+Master. Eugene Rice,3,male,2,4,1,29.125,Yes
+Mr. Charles Eugene Williams,2,male,23,0,0,13,No
+Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke,3,female,31,1,0,18,Yes
+Mrs. Fatima Masselmani,3,female,22,0,0,7.225,No
+Mr. Joseph J Fynney,2,male,35,0,0,26,Yes
+Mr. Lawrence Beesley,2,male,34,0,0,13,No
+Miss. Anna McGowan,3,female,15,0,0,8.0292,No
+Mr. William Thompson Sloper,1,male,28,0,0,35.5,No
+Miss. Torborg Danira Palsson,3,female,8,3,1,21.075,Yes
+Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund,3,female,38,1,5,31.3875,No
+Mr. Farred Chehab Emir,3,male,26,0,0,7.225,Yes
+Mr. Charles Alexander Fortune,1,male,19,3,2,263,Yes
+Miss. Ellen O'Dwyer,3,female,24,0,0,7.8792,No
+Mr. Lalio Todoroff,3,male,23,0,0,7.8958,Yes
+Don. Manuel E Uruchurtu,1,male,40,0,0,27.7208,Yes
+Mrs. William Augustus (Marie Eugenie) Spencer,1,female,48,1,0,146.5208,No
+Miss. Mary Agatha Glynn,3,female,18,0,0,7.75,No
+Mr. Edward H Wheadon,2,male,66,0,0,10.5,Yes
+Mr. Edgar Joseph Meyer,1,male,28,1,0,82.1708,Yes
+Mr. Alexander Oskar Holverson,1,male,42,1,0,52,Yes
+Mr. Hanna Mamee,3,male,18,0,0,7.2292,No
+Mr. Ernest Charles Cann,3,male,21,0,0,8.05,Yes
+Miss. Augusta Maria Vander Planke,3,female,18,2,0,18,Yes
+Miss. Jamila Nicola-Yarred,3,female,14,1,0,11.2417,No
+Mrs. Johan (Johanna Persdotter Larsson) Ahlin,3,female,40,1,0,9.475,Yes
+Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin,2,female,27,1,0,21,Yes
+Miss. Simonne Marie Anne Andree Laroche,2,female,3,1,2,41.5792,No
+Miss. Margaret Delia Devaney,3,female,19,0,0,7.8792,No
+Mr. William John Rogers,3,male,30,0,0,8.05,Yes
+Mr. Denis Lennon,3,male,20,1,0,15.5,Yes
+Miss. Bridget O'Driscoll,3,female,27,0,0,7.75,No
+Mr. Youssef Samaan,3,male,16,2,0,21.6792,Yes
+Mrs. Josef (Josefine Franchi) Arnold-Franchi,3,female,18,1,0,17.8,Yes
+Master. Juha Niilo Panula,3,male,7,4,1,39.6875,Yes
+Mr. Richard Cater Nosworthy,3,male,21,0,0,7.8,Yes
+Mrs. Henry Sleeper (Myna Haxtun) Harper,1,female,49,1,0,76.7292,No
+Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe,2,female,29,1,0,26,No
+Mr. Engelhart Cornelius Ostby,1,male,65,0,1,61.9792,Yes
+Mr. Hugh Woolner,1,male,46,0,0,35.5,No
+Miss. Emily Rugg,2,female,21,0,0,10.5,No
+Mr. Mansouer Novel,3,male,28.5,0,0,7.2292,Yes
+Miss. Constance Mirium West,2,female,5,1,2,27.75,No
+Master. William Frederick Goodwin,3,male,11,5,2,46.9,Yes
+Mr. Orsen Sirayanian,3,male,22,0,0,7.2292,Yes
+Miss. Amelie Icard,1,female,38,0,0,80,No
+Mr. Henry Birkhardt Harris,1,male,45,1,0,83.475,Yes
+Master. Harald Skoog,3,male,4,3,2,27.9,Yes
+Mr. Albert A Stewart,1,male,64,0,0,27.7208,Yes
+Master. Gerios Moubarek,3,male,7,1,1,15.2458,No
+Mrs. (Elizabeth Ramell) Nye,2,female,29,0,0,10.5,No
+Mr. Ernest James Crease,3,male,19,0,0,8.1583,Yes
+Miss. Erna Alexandra Andersson,3,female,17,4,2,7.925,No
+Mr. Vincenz Kink,3,male,26,2,0,8.6625,Yes
+Mr. Stephen Curnow Jenkin,2,male,32,0,0,10.5,Yes
+Miss. Lillian Amy Goodwin,3,female,16,5,2,46.9,Yes
+Mr. Ambrose Jr Hood,2,male,21,0,0,73.5,Yes
+Mr. Apostolos Chronopoulos,3,male,26,1,0,14.4542,Yes
+Mr. Lee Bing,3,male,32,0,0,56.4958,No
+Mr. Sigurd Hansen Moen,3,male,25,0,0,7.65,Yes
+Mr. Ivan Staneff,3,male,23,0,0,7.8958,Yes
+Mr. Rahamin Haim Moutal,3,male,28,0,0,8.05,Yes
+Master. Alden Gates Caldwell,2,male,0.83,0,2,29,No
+Miss. Elizabeth Dowdell,3,female,30,0,0,12.475,No
+Mr. Achille Waelens,3,male,22,0,0,9,Yes
+Mr. Jan Baptist Sheerlinck,3,male,29,0,0,9.5,No
+Miss. Brigdet Delia McDermott,3,female,31,0,0,7.7875,No
+Mr. Francisco M Carrau,1,male,28,0,0,47.1,Yes
+Miss. Bertha Ilett,2,female,17,0,0,10.5,No
+Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom,3,female,33,3,0,15.85,No
+Mr. William Neal Ford,3,male,16,1,3,34.375,Yes
+Mr. Selman Francis Slocovski,3,male,20,0,0,8.05,Yes
+Miss. Mabel Helen Fortune,1,female,23,3,2,263,No
+Mr. Francesco Celotti,3,male,24,0,0,8.05,Yes
+Mr. Emil Christmann,3,male,29,0,0,8.05,Yes
+Mr. Paul Edvin Andreasson,3,male,20,0,0,7.8542,Yes
+Mr. Herbert Fuller Chaffee,1,male,46,1,0,61.175,Yes
+Mr. Bertram Frank Dean,3,male,26,1,2,20.575,Yes
+Mr. Daniel Coxon,3,male,59,0,0,7.25,Yes
+Mr. Charles Joseph Shorney,3,male,22,0,0,8.05,Yes
+Mr. George B Goldschmidt,1,male,71,0,0,34.6542,Yes
+Mr. William Bertram Greenfield,1,male,23,0,1,63.3583,No
+Mrs. John T (Ada Julia Bone) Doling,2,female,34,0,1,23,No
+Mr. Sinai Kantor,2,male,34,1,0,26,Yes
+Miss. Matilda Petranec,3,female,28,0,0,7.8958,Yes
+Mr. Pastcho Petroff,3,male,29,0,0,7.8958,Yes
+Mr. Richard Frasar White,1,male,21,0,1,77.2875,Yes
+Mr. Gustaf Joel Johansson,3,male,33,0,0,8.6542,Yes
+Mr. Anders Vilhelm Gustafsson,3,male,37,2,0,7.925,Yes
+Mr. Stoytcho Mionoff,3,male,28,0,0,7.8958,Yes
+Miss. Anna Kristine Salkjelsvik,3,female,21,0,0,7.65,No
+Mr. Albert Johan Moss,3,male,29,0,0,7.775,No
+Mr. Tido Rekic,3,male,38,0,0,7.8958,Yes
+Miss. Bertha Moran,3,female,28,1,0,24.15,No
+Mr. Walter Chamberlain Porter,1,male,47,0,0,52,Yes
+Miss. Hileni Zabour,3,female,14.5,1,0,14.4542,Yes
+Mr. David John Barton,3,male,22,0,0,8.05,Yes
+Miss. Katriina Jussila,3,female,20,1,0,9.825,Yes
+Miss. Malake Attalah,3,female,17,0,0,14.4583,Yes
+Mr. Edvard Pekoniemi,3,male,21,0,0,7.925,Yes
+Mr. Patrick Connors,3,male,70.5,0,0,7.75,Yes
+Mr. William John Robert Turpin,2,male,29,1,0,21,Yes
+Mr. Quigg Edmond Baxter,1,male,24,0,1,247.5208,Yes
+Miss. Ellis Anna Maria Andersson,3,female,2,4,2,31.275,Yes
+Mr. Stanley George Hickman,2,male,21,2,0,73.5,Yes
+Mr. Leonard Charles Moore,3,male,19,0,0,8.05,Yes
+Mr. Nicholas Nasser,2,male,32.5,1,0,30.0708,Yes
+Miss. Susan Webber,2,female,32.5,0,0,13,No
+Mr. Percival Wayland White,1,male,54,0,1,77.2875,Yes
+Master. Elias Nicola-Yarred,3,male,12,1,0,11.2417,No
+Mr. Martin McMahon,3,male,19,0,0,7.75,Yes
+Mr. Fridtjof Arne Madsen,3,male,24,0,0,7.1417,No
+Miss. Anna Peter,3,female,2,1,1,22.3583,No
+Mr. Johan Ekstrom,3,male,45,0,0,6.975,Yes
+Mr. Jozef Drazenoic,3,male,33,0,0,7.8958,Yes
+Mr. Domingos Fernandeo Coelho,3,male,20,0,0,7.05,Yes
+Mrs. Alexander A (Grace Charity Laury) Robins,3,female,47,1,0,14.5,Yes
+Mrs. Leopold (Mathilde Francoise Pede) Weisz,2,female,29,1,0,26,No
+Mr. Samuel James Hayden Sobey,2,male,25,0,0,13,Yes
+Mr. Emile Richard,2,male,23,0,0,15.0458,Yes
+Miss. Helen Monypeny Newsom,1,female,19,0,2,26.2833,No
+Mr. Jacques Heath Futrelle,1,male,37,1,0,53.1,Yes
+Mr. Olaf Elon Osen,3,male,16,0,0,9.2167,Yes
+Mr. Victor Giglio,1,male,24,0,0,79.2,Yes
+Mrs. Joseph (Sultana) Boulos,3,female,40,0,2,15.2458,Yes
+Miss. Anna Sofia Nysten,3,female,22,0,0,7.75,No
+Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen,3,female,24,1,0,15.85,No
+Mr. Jeremiah Burke,3,male,19,0,0,6.75,Yes
+Mr. Edgardo Samuel Andrew,2,male,18,0,0,11.5,Yes
+Mr. Joseph Charles Nicholls,2,male,19,1,1,36.75,Yes
+Mr. August Edvard Andersson,3,male,27,0,0,7.7958,No
+Miss. Robina Maggie Ford,3,female,9,2,2,34.375,Yes
+Mr. Michel Navratil,2,male,36.5,0,2,26,Yes
+Rev. Thomas Roussel Davids Byles,2,male,42,0,0,13,Yes
+Rev. Robert James Bateman,2,male,51,0,0,12.525,Yes
+Mrs. Thomas (Edith Wearne) Pears,1,female,22,1,0,66.6,No
+Mr. Alfonzo Meo,3,male,55.5,0,0,8.05,Yes
+Mr. Austin Blyler van Billiard,3,male,40.5,0,2,14.5,Yes
+Mr. Ole Martin Olsen,3,male,27,0,0,7.3125,Yes
+Mr. Charles Duane Williams,1,male,51,0,1,61.3792,Yes
+Miss. Katherine Gilnagh,3,female,16,0,0,7.7333,No
+Mr. Harry Corn,3,male,30,0,0,8.05,Yes
+Mr. Mile Smiljanic,3,male,37,0,0,8.6625,Yes
+Master. Thomas Henry Sage,3,male,5,8,2,69.55,Yes
+Mr. John Hatfield Cribb,3,male,44,0,1,16.1,Yes
+Mrs. James (Elizabeth Inglis Milne) Watt,2,female,40,0,0,15.75,No
+Mr. John Viktor Bengtsson,3,male,26,0,0,7.775,Yes
+Mr. Jovo Calic,3,male,17,0,0,8.6625,Yes
+Master. Eino Viljami Panula,3,male,1,4,1,39.6875,Yes
+Master. Frank John William Goldsmith,3,male,9,0,2,20.525,No
+Mrs. (Edith Martha Bowerman) Chibnall,1,female,48,0,1,55,No
+Mrs. William (Anna Bernhardina Karlsson) Skoog,3,female,45,1,4,27.9,Yes
+Mr. John D Baumann,1,male,60,0,0,25.925,Yes
+Mr. Lee Ling,3,male,28,0,0,56.4958,Yes
+Mr. Wyckoff Van der hoef,1,male,61,0,0,33.5,Yes
+Master. Arthur Rice,3,male,4,4,1,29.125,Yes
+Miss. Eleanor Ileen Johnson,3,female,1,1,1,11.1333,No
+Mr. Antti Wilhelm Sivola,3,male,21,0,0,7.925,Yes
+Mr. James Clinch Smith,1,male,56,0,0,30.6958,Yes
+Mr. Klas Albin Klasen,3,male,18,1,1,7.8542,Yes
+Master. Henry Forbes Lefebre,3,male,5,3,1,25.4667,Yes
+Miss. Ann Elizabeth Isham,1,female,50,0,0,28.7125,Yes
+Mr. Reginald Hale,2,male,30,0,0,13,Yes
+Mr. Lionel Leonard,3,male,36,0,0,0,Yes
+Miss. Constance Gladys Sage,3,female,8,8,2,69.55,Yes
+Mr. Rene Pernot,2,male,39,0,0,15.05,Yes
+Master. Clarence Gustaf Hugo Asplund,3,male,9,4,2,31.3875,Yes
+Master. Richard F Becker,2,male,1,2,1,39,No
+Miss. Luise Gretchen Kink-Heilmann,3,female,4,0,2,22.025,No
+Mr. Hugh Roscoe Rood,1,male,39,0,0,50,Yes
+Mrs. Thomas (Johanna Godfrey) O'Brien,3,female,26,1,0,15.5,No
+Mr. Charles Hallace Romaine,1,male,45,0,0,26.55,No
+Mr. John Bourke,3,male,40,1,1,15.5,Yes
+Mr. Stjepan Turcin,3,male,36,0,0,7.8958,Yes
+Mrs. (Rosa) Pinsky,2,female,32,0,0,13,No
+Mr. William Carbines,2,male,19,0,0,13,Yes
+Miss. Carla Christine Nielsine Andersen-Jensen,3,female,19,1,0,7.8542,No
+Master. Michel M Navratil,2,male,3,1,1,26,No
+Mrs. James Joseph (Margaret Tobin) Brown,1,female,44,0,0,27.7208,No
+Miss. Elise Lurette,1,female,58,0,0,146.5208,No
+Mr. Robert Mernagh,3,male,28,0,0,7.75,Yes
+Mr. Karl Siegwart Andreas Olsen,3,male,42,0,1,8.4042,Yes
+Miss. Margaret Madigan,3,female,21,0,0,7.75,No
+Miss. Henriette Yrois,2,female,24,0,0,13,Yes
+Mr. Nestor Cyriel Vande Walle,3,male,28,0,0,9.5,Yes
+Mr. Frederick Sage,3,male,17,8,2,69.55,Yes
+Mr. Jakob Alfred Johanson,3,male,34,0,0,6.4958,Yes
+Mr. Gerious Youseff,3,male,45.5,0,0,7.225,Yes
+Mr. Gurshon Cohen,3,male,18,0,0,8.05,No
+Miss. Telma Matilda Strom,3,female,2,0,1,10.4625,Yes
+Mr. Karl Alfred Backstrom,3,male,32,1,0,15.85,Yes
+Mr. Nassef Cassem Albimona,3,male,26,0,0,18.7875,No
+Miss. Helen Carr,3,female,16,0,0,7.75,No
+Mr. Henry Blank,1,male,40,0,0,31,No
+Mr. Ahmed Ali,3,male,24,0,0,7.05,Yes
+Miss. Clear Annie Cameron,2,female,35,0,0,21,No
+Mr. John Henry Perkin,3,male,22,0,0,7.25,Yes
+Mr. Hans Kristensen Givard,2,male,30,0,0,13,Yes
+Mr. Philip Kiernan,3,male,22,1,0,7.75,Yes
+Miss. Madeleine Newell,1,female,31,1,0,113.275,No
+Miss. Eliina Honkanen,3,female,27,0,0,7.925,No
+Mr. Sidney Samuel Jacobsohn,2,male,42,1,0,27,Yes
+Miss. Albina Bazzani,1,female,32,0,0,76.2917,No
+Mr. Walter Harris,2,male,30,0,0,10.5,Yes
+Mr. Victor Francis Sunderland,3,male,16,0,0,8.05,No
+Mr. James H Bracken,2,male,27,0,0,13,Yes
+Mr. George Henry Green,3,male,51,0,0,8.05,Yes
+Mr. Christo Nenkoff,3,male,22,0,0,7.8958,Yes
+Mr. Frederick Maxfield Hoyt,1,male,38,1,0,90,No
+Mr. Karl Ivar Sven Berglund,3,male,22,0,0,9.35,Yes
+Mr. William John Mellors,2,male,19,0,0,10.5,No
+Mr. John Hall Lovell,3,male,20.5,0,0,7.25,Yes
+Mr. Arne Jonas Fahlstrom,2,male,18,0,0,13,Yes
+Miss. Mathilde Lefebre,3,female,12,3,1,25.4667,Yes
+Mrs. Henry Birkhardt (Irene Wallach) Harris,1,female,35,1,0,83.475,No
+Mr. Bengt Edvin Larsson,3,male,29,0,0,7.775,Yes
+Mr. Ernst Adolf Sjostedt,2,male,59,0,0,13.5,Yes
+Miss. Lillian Gertrud Asplund,3,female,5,4,2,31.3875,No
+Mr. Robert William Norman Leyson,2,male,24,0,0,10.5,Yes
+Miss. Alice Phoebe Harknett,3,female,21,0,0,7.55,Yes
+Mr. Stephen Hold,2,male,44,1,0,26,Yes
+Miss. Marjorie Collyer,2,female,8,0,2,26.25,No
+Mr. Frederick William Pengelly,2,male,19,0,0,10.5,Yes
+Mr. George Henry Hunt,2,male,33,0,0,12.275,Yes
+Miss. Thamine Zabour,3,female,19,1,0,14.4542,Yes
+Miss. Katherine Murphy,3,female,18,1,0,15.5,No
+Mr. Reginald Charles Coleridge,2,male,29,0,0,10.5,Yes
+Mr. Matti Alexanteri Maenpaa,3,male,22,0,0,7.125,Yes
+Mr. Sleiman Attalah,3,male,30,0,0,7.225,Yes
+Dr. William Edward Minahan,1,male,44,2,0,90,Yes
+Miss. Agda Thorilda Viktoria Lindahl,3,female,25,0,0,7.775,Yes
+Mrs. William (Anna) Hamalainen,2,female,24,0,2,14.5,No
+Mr. Richard Leonard Beckwith,1,male,37,1,1,52.5542,No
+Rev. Ernest Courtenay Carter,2,male,54,1,0,26,Yes
+Mr. James George Reed,3,male,18,0,0,7.25,Yes
+Mrs. Wilhelm (Elna Matilda Persson) Strom,3,female,29,1,1,10.4625,Yes
+Mr. William Thomas Stead,1,male,62,0,0,26.55,Yes
+Mr. William Arthur Lobb,3,male,30,1,0,16.1,Yes
+Mrs. Viktor (Helena Wilhelmina) Rosblom,3,female,41,0,2,20.2125,Yes
+Mrs. Darwis (Hanne Youssef Razi) Touma,3,female,29,0,2,15.2458,No
+Mrs. Gertrude Maybelle Thorne,1,female,38,0,0,79.2,No
+Miss. Gladys Cherry,1,female,30,0,0,86.5,No
+Miss. Anna Ward,1,female,35,0,0,512.3292,No
+Mrs. (Lutie Davis) Parrish,2,female,50,0,1,26,No
+Master. Edvin Rojj Felix Asplund,3,male,3,4,2,31.3875,No
+Mr. Emil Taussig,1,male,52,1,1,79.65,Yes
+Mr. William Harrison,1,male,40,0,0,0,Yes
+Miss. Delia Henry,3,female,21,0,0,7.75,Yes
+Mr. David Reeves,2,male,36,0,0,10.5,Yes
+Mr. Ernesti Arvid Panula,3,male,16,4,1,39.6875,Yes
+Mr. Ernst Ulrik Persson,3,male,25,1,0,7.775,No
+Mrs. William Thompson (Edith Junkins) Graham,1,female,58,0,1,153.4625,No
+Miss. Amelia Bissette,1,female,35,0,0,135.6333,No
+Mr. Alexander Cairns,1,male,28,0,0,31,Yes
+Mr. William Henry Tornquist,3,male,25,0,0,0,No
+Mrs. (Elizabeth Anne Maidment) Mellinger,2,female,41,0,1,19.5,No
+Mr. Charles H Natsch,1,male,37,0,1,29.7,Yes
+Miss. Hanora Healy,3,female,33,0,0,7.75,No
+Miss. Kornelia Theodosia Andrews,1,female,63,1,0,77.9583,No
+Miss. Augusta Charlotta Lindblom,3,female,45,0,0,7.75,Yes
+Mr. Francis Parkes,2,male,21,0,0,0,Yes
+Master. Eric Rice,3,male,7,4,1,29.125,Yes
+Mrs. Stanton (Rosa Hunt) Abbott,3,female,35,1,1,20.25,No
+Mr. Frank Duane,3,male,65,0,0,7.75,Yes
+Mr. Nils Johan Goransson Olsson,3,male,28,0,0,7.8542,Yes
+Mr. Alfons de Pelsmaeker,3,male,16,0,0,9.5,Yes
+Mr. Edward Arthur Dorking,3,male,19,0,0,8.05,No
+Mr. Richard William Smith,1,male,57,0,0,26,Yes
+Mr. Ivan Stankovic,3,male,33,0,0,8.6625,Yes
+Mr. Theodore de Mulder,3,male,30,0,0,9.5,No
+Mr. Penko Naidenoff,3,male,22,0,0,7.8958,Yes
+Mr. Masabumi Hosono,2,male,42,0,0,13,No
+Miss. Kate Connolly,3,female,22,0,0,7.75,No
+Miss. Ellen Barber,1,female,26,0,0,78.85,No
+Mrs. Dickinson H (Helen Walton) Bishop,1,female,19,1,0,91.0792,No
+Mr. Rene Jacques Levy,2,male,36,0,0,12.875,Yes
+Miss. Aloisia Haas,3,female,24,0,0,8.85,Yes
+Mr. Ivan Mineff,3,male,24,0,0,7.8958,Yes
+Mr. Ervin G Lewy,1,male,30,0,0,27.7208,Yes
+Mr. Mansour Hanna,3,male,23.5,0,0,7.2292,Yes
+Miss. Helen Loraine Allison,1,female,2,1,2,151.55,Yes
+Mr. Adolphe Saalfeld,1,male,47,0,0,30.5,No
+Mrs. James (Helene DeLaudeniere Chaput) Baxter,1,female,50,0,1,247.5208,No
+Miss. Anna Katherine Kelly,3,female,20,0,0,7.75,No
+Mr. Bernard McCoy,3,male,24,2,0,23.25,No
+Mr. William Cahoone Jr Johnson,3,male,19,0,0,0,Yes
+Miss. Nora A Keane,2,female,46,0,0,12.35,No
+Mr. Howard Hugh Williams,3,male,28,0,0,8.05,Yes
+Master. Hudson Trevor Allison,1,male,0.92,1,2,151.55,No
+Miss. Margaret Fleming,1,female,42,0,0,110.8833,No
+Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana,1,female,17,1,0,108.9,No
+Mr. Samuel Abelson,2,male,30,1,0,24,Yes
+Miss. Laura Mabel Francatelli,1,female,30,0,0,56.9292,No
+Miss. Margaret Bechstein Hays,1,female,24,0,0,83.1583,No
+Miss. Emily Borie Ryerson,1,female,18,2,2,262.375,No
+Mrs. William (Anna Sylfven) Lahtinen,2,female,26,1,1,26,Yes
+Mr. Ignjac Hendekovic,3,male,28,0,0,7.8958,Yes
+Mr. Benjamin Hart,2,male,43,1,1,26.25,Yes
+Miss. Helmina Josefina Nilsson,3,female,26,0,0,7.8542,No
+Mrs. Sinai (Miriam Sternin) Kantor,2,female,24,1,0,26,No
+Dr. Ernest Moraweck,2,male,54,0,0,14,Yes
+Miss. Mary Natalie Wick,1,female,31,0,2,164.8667,No
+Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden,1,female,40,1,1,134.5,No
+Mr. Samuel Dennis,3,male,22,0,0,7.25,Yes
+Mr. Yoto Danoff,3,male,27,0,0,7.8958,Yes
+Miss. Hilda Mary Slayter,2,female,30,0,0,12.35,No
+Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell,2,female,22,1,1,29,No
+Mr. George John Jr Sage,3,male,20,8,2,69.55,Yes
+Miss. Marie Grice Young,1,female,36,0,0,135.6333,No
+Mr. Johan Hansen Nysveen,3,male,61,0,0,6.2375,Yes
+Mrs. (Ada E Hall) Ball,2,female,36,0,0,13,No
+Mrs. Frank John (Emily Alice Brown) Goldsmith,3,female,31,1,1,20.525,No
+Miss. Jean Gertrude Hippach,1,female,16,0,1,57.9792,No
+Miss. Agnes McCoy,3,female,28,2,0,23.25,No
+Mr. Austen Partner,1,male,45.5,0,0,28.5,Yes
+Mr. George Edward Graham,1,male,38,0,1,153.4625,Yes
+Mr. Leo Edmondus Vander Planke,3,male,16,2,0,18,Yes
+Mrs. Henry William (Clara Heinsheimer) Frauenthal,1,female,42,1,0,133.65,No
+Mr. Mitto Denkoff,3,male,30,0,0,7.8958,Yes
+Mr. Thomas Clinton Pears,1,male,29,1,0,66.6,Yes
+Miss. Elizabeth Margaret Burns,1,female,41,0,0,134.5,No
+Mr. Karl Edwart Dahl,3,male,45,0,0,8.05,No
+Mr. Stephen Weart Blackwell,1,male,45,0,0,35.5,Yes
+Master. Edmond Roger Navratil,2,male,2,1,1,26,No
+Miss. Alice Elizabeth Fortune,1,female,24,3,2,263,No
+Mr. Erik Gustaf Collander,2,male,28,0,0,13,Yes
+Mr. Charles Frederick Waddington Sedgwick,2,male,25,0,0,13,Yes
+Mr. Stanley Hubert Fox,2,male,36,0,0,13,Yes
+Miss. Amelia Brown,2,female,24,0,0,13,No
+Miss. Marion Elsie Smith,2,female,40,0,0,13,No
+Mrs. Thomas Henry (Mary E Finck) Davison,3,female,34,1,0,16.1,No
+Master. William Loch Coutts,3,male,3,1,1,15.9,No
+Mr. Jovan Dimic,3,male,42,0,0,8.6625,Yes
+Mr. Nils Martin Odahl,3,male,23,0,0,9.225,Yes
+Mr. Fletcher Fellows Williams-Lambert,1,male,43,0,0,35,Yes
+Mr. Tannous Elias,3,male,15,1,1,7.2292,Yes
+Mr. Josef Arnold-Franchi,3,male,25,1,0,17.8,Yes
+Mr. Wazli Yousif,3,male,23,0,0,7.225,Yes
+Mr. Leo Peter Vanden Steen,3,male,28,0,0,9.5,Yes
+Miss. Elsie Edith Bowerman,1,female,22,0,1,55,No
+Miss. Annie Clemmer Funk,2,female,38,0,0,13,Yes
+Miss. Mary McGovern,3,female,22,0,0,7.8792,No
+Miss. Helen Mary Mockler,3,female,23,0,0,7.8792,No
+Mr. Wilhelm Skoog,3,male,40,1,4,27.9,Yes
+Mr. Sebastiano del Carlo,2,male,29,1,0,27.7208,Yes
+Mrs. (Catherine David) Barbara,3,female,45,0,1,14.4542,Yes
+Mr. Adola Asim,3,male,35,0,0,7.05,Yes
+Mr. Thomas O'Brien,3,male,27,1,0,15.5,Yes
+Mr. Mauritz Nils Martin Adahl,3,male,30,0,0,7.25,Yes
+Mrs. Frank Manley (Anna Sophia Atkinson) Warren,1,female,60,1,0,75.25,No
+Mrs. (Mantoura Boulos) Moussa,3,female,35,0,0,7.2292,No
+Miss. Annie Jermyn,3,female,22,0,0,7.75,No
+Mme. Leontine Pauline Aubart,1,female,24,0,0,69.3,No
+Mr. George Achilles Harder,1,male,25,1,0,55.4417,No
+Mr. Jakob Alfred Wiklund,3,male,18,1,0,6.4958,Yes
+Mr. William Thomas Beavan,3,male,19,0,0,8.05,Yes
+Mr. Sante Ringhini,1,male,22,0,0,135.6333,Yes
+Miss. Stina Viola Palsson,3,female,3,3,1,21.075,Yes
+Mrs. Edgar Joseph (Leila Saks) Meyer,1,female,25,1,0,82.1708,No
+Miss. Aurora Adelia Landergren,3,female,22,0,0,7.25,No
+Mr. Harry Elkins Widener,1,male,27,0,2,211.5,Yes
+Mr. Tannous Betros,3,male,20,0,0,4.0125,Yes
+Mr. Karl Gideon Gustafsson,3,male,19,0,0,7.775,Yes
+Miss. Rosalie Bidois,1,female,42,0,0,227.525,No
+Miss. Maria Nakid,3,female,1,0,2,15.7417,No
+Mr. Juho Tikkanen,3,male,32,0,0,7.925,Yes
+Mrs. Alexander Oskar (Mary Aline Towner) Holverson,1,female,35,1,0,52,No
+Mr. Vasil Plotcharsky,3,male,27,0,0,7.8958,Yes
+Mr. Charles Henry Davies,2,male,18,0,0,73.5,Yes
+Master. Sidney Leonard Goodwin,3,male,1,5,2,46.9,Yes
+Miss. Kate Buss,2,female,36,0,0,13,No
+Mr. Matthew Sadlier,3,male,19,0,0,7.7292,Yes
+Miss. Bertha Lehmann,2,female,17,0,0,12,No
+Mr. William Ernest Carter,1,male,36,1,2,120,No
+Mr. Carl Olof Jansson,3,male,21,0,0,7.7958,No
+Mr. Johan Birger Gustafsson,3,male,28,2,0,7.925,Yes
+Miss. Marjorie Newell,1,female,23,1,0,113.275,No
+Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,3,female,24,0,2,16.7,No
+Mr. Erik Johansson,3,male,22,0,0,7.7958,Yes
+Miss. Elina Olsson,3,female,31,0,0,7.8542,Yes
+Mr. Peter David McKane,2,male,46,0,0,26,Yes
+Dr. Alfred Pain,2,male,23,0,0,10.5,Yes
+Mrs. William H (Jessie L) Trout,2,female,28,0,0,12.65,No
+Mr. Juha Niskanen,3,male,39,0,0,7.925,No
+Mr. John Adams,3,male,26,0,0,8.05,Yes
+Miss. Mari Aina Jussila,3,female,21,1,0,9.825,Yes
+Mr. Pekka Pietari Hakkarainen,3,male,28,1,0,15.85,Yes
+Miss. Marija Oreskovic,3,female,20,0,0,8.6625,Yes
+Mr. Shadrach Gale,2,male,34,1,0,21,Yes
+Mr. Carl/Charles Peter Widegren,3,male,51,0,0,7.75,Yes
+Master. William Rowe Richards,2,male,3,1,1,18.75,No
+Mr. Hans Martin Monsen Birkeland,3,male,21,0,0,7.775,Yes
+Miss. Ida Lefebre,3,female,3,3,1,25.4667,Yes
+Mr. Todor Sdycoff,3,male,42,0,0,7.8958,Yes
+Mr. Henry Hart,3,male,27,0,0,6.8583,Yes
+Miss. Daisy E Minahan,1,female,33,1,0,90,No
+Mr. Alfred Fleming Cunningham,2,male,22,0,0,0,Yes
+Mr. Johan Julian Sundman,3,male,44,0,0,7.925,No
+Mrs. Thomas (Annie Louise Rowley) Meek,3,female,32,0,0,8.05,Yes
+Mrs. James Vivian (Lulu Thorne Christian) Drew,2,female,34,1,1,32.5,No
+Miss. Lyyli Karoliina Silven,2,female,18,0,2,13,No
+Mr. William John Matthews,2,male,30,0,0,13,Yes
+Miss. Catharina Van Impe,3,female,10,0,2,24.15,Yes
+Mr. David Charters,3,male,21,0,0,7.7333,Yes
+Mr. Leo Zimmerman,3,male,29,0,0,7.875,Yes
+Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom,3,female,28,1,1,14.4,Yes
+Mr. Viktor Richard Rosblom,3,male,18,1,1,20.2125,Yes
+Mr. Phillippe Wiseman,3,male,54,0,0,7.25,Yes
+Mrs. Charles V (Ada Maria Winfield) Clarke,2,female,28,1,0,26,No
+Miss. Kate Florence Phillips,2,female,19,0,0,26,No
+Mr. James Flynn,3,male,28,0,0,7.75,Yes
+Mr. Berk (Berk Trembisky) Pickard,3,male,32,0,0,8.05,No
+Mr. Mauritz Hakan Bjornstrom-Steffansson,1,male,28,0,0,26.55,No
+Mrs. Percival (Florence Kate White) Thorneycroft,3,female,33,1,0,16.1,No
+Mrs. Charles Alexander (Alice Adelaide Slow) Louch,2,female,42,1,0,26,No
+Mr. Nikolai Erland Kallio,3,male,17,0,0,7.125,Yes
+Mr. William Baird Silvey,1,male,50,1,0,55.9,Yes
+Miss. Lucile Polk Carter,1,female,14,1,2,120,No
+Miss. Doolina Margaret Ford,3,female,21,2,2,34.375,Yes
+Mrs. Sidney (Emily Hocking) Richards,2,female,24,2,3,18.75,No
+Mr. Mark Fortune,1,male,64,1,4,263,Yes
+Mr. Johan Henrik Johannesson Kvillner,2,male,31,0,0,10.5,Yes
+Mrs. Benjamin (Esther Ada Bloomfield) Hart,2,female,45,1,1,26.25,No
+Mr. Leon Hampe,3,male,20,0,0,9.5,Yes
+Mr. Johan Emil Petterson,3,male,25,1,0,7.775,Yes
+Ms. Encarnacion Reynaldo,2,female,28,0,0,13,No
+Mr. Bernt Johannesen-Bratthammer,3,male,29,0,0,8.1125,No
+Master. Washington Dodge,1,male,4,0,2,81.8583,No
+Miss. Madeleine Violet Mellinger,2,female,13,0,1,19.5,No
+Mr. Frederic Kimber Seward,1,male,34,0,0,26.55,No
+Miss. Marie Catherine Baclini,3,female,5,2,1,19.2583,No
+Major. Arthur Godfrey Peuchen,1,male,52,0,0,30.5,No
+Mr. Edwy Arthur West,2,male,36,1,2,27.75,Yes
+Mr. Ingvald Olai Olsen Hagland,3,male,28,1,0,19.9667,Yes
+Mr. Benjamin Laventall Foreman,1,male,30,0,0,27.75,Yes
+Mr. Samuel L Goldenberg,1,male,49,1,0,89.1042,No
+Mr. Joseph Peduzzi,3,male,24,0,0,8.05,Yes
+Mr. Ivan Jalsevac,3,male,29,0,0,7.8958,No
+Mr. Francis Davis Millet,1,male,65,0,0,26.55,Yes
+Mrs. Frederick R (Marion) Kenyon,1,female,41,1,0,51.8625,No
+Miss. Ellen Toomey,2,female,50,0,0,10.5,No
+Mr. Maurice O'Connor,3,male,17,0,0,7.75,Yes
+Mr. Harry Anderson,1,male,48,0,0,26.55,No
+Mr. William Morley,3,male,34,0,0,8.05,Yes
+Mr. Arthur H Gee,1,male,47,0,0,38.5,Yes
+Mr. Jacob Christian Milling,2,male,48,0,0,13,Yes
+Mr. Simon Maisner,3,male,34,0,0,8.05,Yes
+Mr. Manuel Estanslas Goncalves,3,male,38,0,0,7.05,Yes
+Mr. William Campbell,2,male,21,0,0,0,Yes
+Mr. John Montgomery Smart,1,male,56,0,0,26.55,Yes
+Mr. James Scanlan,3,male,22,0,0,7.725,Yes
+Miss. Helene Barbara Baclini,3,female,0.75,2,1,19.2583,No
+Mr. Arthur Keefe,3,male,39,0,0,7.25,Yes
+Mr. Luka Cacic,3,male,38,0,0,8.6625,Yes
+Mrs. Edwy Arthur (Ada Mary Worth) West,2,female,33,1,2,27.75,No
+Mrs. Amin S (Marie Marthe Thuillard) Jerwan,2,female,23,0,0,13.7917,No
+Miss. Ida Sofia Strandberg,3,female,22,0,0,9.8375,Yes
+Mr. George Quincy Clifford,1,male,40,0,0,52,Yes
+Mr. Peter Henry Renouf,2,male,34,1,0,21,Yes
+Mr. Lewis Richard Braund,3,male,29,1,0,7.0458,Yes
+Mr. Nils August Karlsson,3,male,22,0,0,7.5208,Yes
+Miss. Hildur E Hirvonen,3,female,2,0,1,12.2875,No
+Master. Harold Victor Goodwin,3,male,9,5,2,46.9,Yes
+Mr. Anthony Wood Frost,2,male,37,0,0,0,Yes
+Mr. Richard Henry Rouse,3,male,50,0,0,8.05,Yes
+Mrs. (Hedwig) Turkula,3,female,63,0,0,9.5875,No
+Mr. Dickinson H Bishop,1,male,25,1,0,91.0792,No
+Miss. Jeannie Lefebre,3,female,8,3,1,25.4667,Yes
+Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt,1,female,35,1,0,90,No
+Mr. Edward Austin Kent,1,male,58,0,0,29.7,Yes
+Mr. Francis William Somerton,3,male,30,0,0,8.05,Yes
+Master. Eden Leslie Coutts,3,male,9,1,1,15.9,No
+Mr. Konrad Mathias Reiersen Hagland,3,male,19,1,0,19.9667,Yes
+Mr. Einar Windelov,3,male,21,0,0,7.25,Yes
+Mr. Harry Markland Molson,1,male,55,0,0,30.5,Yes
+Mr. Ramon Artagaveytia,1,male,71,0,0,49.5042,Yes
+Mr. Edward Roland Stanley,3,male,21,0,0,8.05,Yes
+Mr. Gerious Yousseff,3,male,26,0,0,14.4583,Yes
+Miss. Elizabeth Mussey Eustis,1,female,54,1,0,78.2667,No
+Mr. Frederick William Shellard,3,male,55,0,0,15.1,Yes
+Mrs. Hudson J C (Bessie Waldo Daniels) Allison,1,female,25,1,2,151.55,Yes
+Mr. Olof Svensson,3,male,24,0,0,7.7958,Yes
+Mr. Petar Calic,3,male,17,0,0,8.6625,Yes
+Miss. Mary Canavan,3,female,21,0,0,7.75,Yes
+Miss. Bridget Mary O'Sullivan,3,female,21,0,0,7.6292,Yes
+Miss. Kristina Sofia Laitinen,3,female,37,0,0,9.5875,Yes
+Miss. Roberta Maioni,1,female,16,0,0,86.5,No
+Mr. Victor de Satode Penasco y Castellana,1,male,18,1,0,108.9,Yes
+Mrs. Frederick Charles (Jane Richards) Quick,2,female,33,0,2,26,No
+Mr. George Bradley,1,male,37,0,0,26.55,No
+Mr. Henry Margido Olsen,3,male,28,0,0,22.525,Yes
+Mr. Fang Lang,3,male,26,0,0,56.4958,No
+Mr. Eugene Patrick Daly,3,male,29,0,0,7.75,No
+Mr. James Webber,3,male,66,0,0,8.05,Yes
+Mr. James Robert McGough,1,male,36,0,0,26.2875,No
+Mrs. Martin (Elizabeth L. Barrett) Rothschild,1,female,54,1,0,59.4,No
+Mr. Satio Coleff,3,male,24,0,0,7.4958,Yes
+Mr. William Anderson Walker,1,male,47,0,0,34.0208,Yes
+Mrs. (Amelia Milley) Lemore,2,female,34,0,0,10.5,No
+Mr. Patrick Ryan,3,male,30,0,0,24.15,Yes
+Mrs. William A (Florence Agnes Hughes) Angle,2,female,36,1,0,26,No
+Mr. Stefo Pavlovic,3,male,32,0,0,7.8958,Yes
+Miss. Anne Perreault,1,female,30,0,0,93.5,No
+Mr. Janko Vovk,3,male,22,0,0,7.8958,Yes
+Mr. Sarkis Lahoud,3,male,35,0,0,7.225,Yes
+Mrs. Louis Albert (Ida Sophia Fischer) Hippach,1,female,44,0,1,57.9792,No
+Mr. Fared Kassem,3,male,18,0,0,7.2292,Yes
+Mr. James Farrell,3,male,40.5,0,0,7.75,Yes
+Miss. Lucy Ridsdale,2,female,50,0,0,10.5,No
+Mr. John Farthing,1,male,49,0,0,221.7792,Yes
+Mr. Johan Werner Salonen,3,male,39,0,0,7.925,Yes
+Mr. Richard George Hocking,2,male,23,2,1,11.5,Yes
+Miss. Phyllis May Quick,2,female,2,1,1,26,No
+Mr. Nakli Toufik,3,male,17,0,0,7.2292,Yes
+Mr. Joseph Jr Elias,3,male,17,1,1,7.2292,Yes
+Mrs. Catherine (Catherine Rizk) Peter,3,female,24,0,2,22.3583,No
+Miss. Marija Cacic,3,female,30,0,0,8.6625,Yes
+Miss. Eva Miriam Hart,2,female,7,0,2,26.25,No
+Major. Archibald Willingham Butt,1,male,45,0,0,26.55,Yes
+Miss. Bertha LeRoy,1,female,30,0,0,106.425,No
+Mr. Samuel Beard Risien,3,male,69,0,0,14.5,Yes
+Miss. Hedwig Margaritha Frolicher,1,female,22,0,2,49.5,No
+Miss. Harriet R Crosby,1,female,36,0,2,71,No
+Miss. Ingeborg Constanzia Andersson,3,female,9,4,2,31.275,Yes
+Miss. Sigrid Elisabeth Andersson,3,female,11,4,2,31.275,Yes
+Mr. Edward Beane,2,male,32,1,0,26,No
+Mr. Walter Donald Douglas,1,male,50,1,0,106.425,Yes
+Mr. Arthur Ernest Nicholson,1,male,64,0,0,26,Yes
+Mrs. Edward (Ethel Clarke) Beane,2,female,19,1,0,26,No
+Mr. Julian Padro y Manent,2,male,27,0,0,13.8625,No
+Mr. Frank John Goldsmith,3,male,33,1,1,20.525,Yes
+Master. John Morgan Jr Davies,2,male,8,1,1,36.75,No
+Mr. John Borland Jr Thayer,1,male,17,0,2,110.8833,No
+Mr. Percival James R Sharp,2,male,27,0,0,26,Yes
+Mr. Timothy O'Brien,3,male,21,0,0,7.8292,Yes
+Mr. Fahim Leeni,3,male,22,0,0,7.225,No
+Miss. Velin Ohman,3,female,22,0,0,7.775,No
+Mr. George Wright,1,male,62,0,0,26.55,Yes
+Lady. (Lucille Christiana Sutherland)Duff Gordon,1,female,48,1,0,39.6,No
+Mr. Victor Robbins,1,male,45,0,0,227.525,Yes
+Mrs. Emil (Tillie Mandelbaum) Taussig,1,female,39,1,1,79.65,No
+Mrs. Guillaume Joseph (Emma) de Messemaeker,3,female,36,1,0,17.4,No
+Mr. Thomas Rowan Morrow,3,male,30,0,0,7.75,Yes
+Mr. Husein Sivic,3,male,40,0,0,7.8958,Yes
+Mr. Robert Douglas Norman,2,male,28,0,0,13.5,Yes
+Mr. John Simmons,3,male,40,0,0,8.05,Yes
+Miss. (Marion Ogden) Meanwell,3,female,62,0,0,8.05,Yes
+Mr. Alfred J Davies,3,male,24,2,0,24.15,Yes
+Mr. Ilia Stoytcheff,3,male,19,0,0,7.8958,Yes
+Mrs. Nils (Alma Cornelia Berglund) Palsson,3,female,29,0,4,21.075,Yes
+Mr. Tannous Doharr,3,male,28,0,0,7.2292,Yes
+Mr. Carl Jonsson,3,male,32,0,0,7.8542,No
+Mr. George Harris,2,male,62,0,0,10.5,No
+Mrs. Edward Dale (Charlotte Lamson) Appleton,1,female,53,2,0,51.4792,No
+Mr. John Irwin Flynn,1,male,36,0,0,26.3875,No
+Miss. Mary Kelly,3,female,22,0,0,7.75,No
+Mr. Alfred George John Rush,3,male,16,0,0,8.05,Yes
+Mr. George Patchett,3,male,19,0,0,14.5,Yes
+Miss. Ethel Garside,2,female,34,0,0,13,No
+Mrs. William Baird (Alice Munger) Silvey,1,female,39,1,0,55.9,No
+Mrs. Joseph (Maria Elias) Caram,3,female,18,1,0,14.4583,Yes
+Mr. Eiriik Jussila,3,male,32,0,0,7.925,No
+Miss. Julie Rachel Christy,2,female,25,1,1,30,No
+Mrs. John Borland (Marian Longstreth Morris) Thayer,1,female,39,1,1,110.8833,No
+Mr. William James Downton,2,male,54,0,0,26,Yes
+Mr. John Hugo Ross,1,male,36,0,0,40.125,Yes
+Mr. Uscher Paulner,3,male,16,0,0,8.7125,Yes
+Miss. Ruth Taussig,1,female,18,0,2,79.65,No
+Mr. John Denzil Jarvis,2,male,47,0,0,15,Yes
+Mr. Maxmillian Frolicher-Stehli,1,male,60,1,1,79.2,No
+Mr. Eliezer Gilinski,3,male,22,0,0,8.05,Yes
+Mr. Joseph Murdlin,3,male,22,0,0,8.05,Yes
+Mr. Matti Rintamaki,3,male,35,0,0,7.125,Yes
+Mrs. Walter Bertram (Martha Eustis) Stephenson,1,female,52,1,0,78.2667,No
+Mr. William James Elsbury,3,male,47,0,0,7.25,Yes
+Miss. Mary Bourke,3,female,40,0,2,7.75,Yes
+Mr. John Henry Chapman,2,male,37,1,0,26,Yes
+Mr. Jean Baptiste Van Impe,3,male,36,1,1,24.15,Yes
+Miss. Jessie Wills Leitch,2,female,31,0,0,33,No
+Mr. Alfred Johnson,3,male,49,0,0,0,Yes
+Mr. Hanna Boulos,3,male,18,0,0,7.225,Yes
+Sir. Cosmo Edmund Duff Gordon,1,male,49,1,0,56.9292,No
+Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn,2,female,24,2,1,27,No
+Mr. Petco Slabenoff,3,male,42,0,0,7.8958,Yes
+Mr. Charles H Harrington,1,male,37,0,0,42.4,Yes
+Mr. Ernst William Torber,3,male,44,0,0,8.05,Yes
+Mr. Harry Homer,1,male,35,0,0,26.55,No
+Mr. Edvard Bengtsson Lindell,3,male,36,1,0,15.55,Yes
+Mr. Milan Karaic,3,male,30,0,0,7.8958,Yes
+Mr. Robert Williams Daniel,1,male,27,0,0,30.5,No
+Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche,2,female,22,1,2,41.5792,No
+Miss. Elizabeth W Shutes,1,female,40,0,0,153.4625,No
+Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson,3,female,39,1,5,31.275,Yes
+Mr. Jose Neto Jardin,3,male,21,0,0,7.05,Yes
+Miss. Margaret Jane Murphy,3,female,18,1,0,15.5,No
+Mr. John Horgan,3,male,22,0,0,7.75,Yes
+Mr. William Alfred Brocklebank,3,male,35,0,0,8.05,Yes
+Miss. Alice Herman,2,female,24,1,2,65,No
+Mr. Ernst Gilbert Danbom,3,male,34,1,1,14.4,Yes
+Mrs. William Arthur (Cordelia K Stanlick) Lobb,3,female,26,1,0,16.1,Yes
+Miss. Marion Louise Becker,2,female,4,2,1,39,No
+Mr. Lawrence Gavey,2,male,26,0,0,10.5,Yes
+Mr. Antoni Yasbeck,3,male,27,1,0,14.4542,Yes
+Mr. Edwin Nelson Jr Kimball,1,male,42,1,0,52.5542,No
+Mr. Sahid Nakid,3,male,20,1,1,15.7417,No
+Mr. Henry Damsgaard Hansen,3,male,21,0,0,7.8542,Yes
+Mr. David John Bowen,3,male,21,0,0,16.1,Yes
+Mr. Frederick Sutton,1,male,61,0,0,32.3208,Yes
+Rev. Charles Leonard Kirkland,2,male,57,0,0,12.35,Yes
+Miss. Gretchen Fiske Longley,1,female,21,0,0,77.9583,No
+Mr. Guentcho Bostandyeff,3,male,26,0,0,7.8958,Yes
+Mr. Patrick D O'Connell,3,male,18,0,0,7.7333,Yes
+Mr. Algernon Henry Wilson Barkworth,1,male,80,0,0,30,No
+Mr. Johan Svensson Lundahl,3,male,51,0,0,7.0542,Yes
+Dr. Max Stahelin-Maeglin,1,male,32,0,0,30.5,No
+Mr. William Henry Marsh Parr,1,male,30,0,0,0,Yes
+Miss. Mabel Skoog,3,female,9,3,2,27.9,Yes
+Miss. Mary Davis,2,female,28,0,0,13,No
+Mr. Antti Gustaf Leinonen,3,male,32,0,0,7.925,Yes
+Mr. Harvey Collyer,2,male,31,1,1,26.25,Yes
+Mrs. Juha (Maria Emilia Ojala) Panula,3,female,41,0,5,39.6875,Yes
+Mr. Percival Thorneycroft,3,male,37,1,0,16.1,Yes
+Mr. Hans Peder Jensen,3,male,20,0,0,7.8542,Yes
+Mlle. Emma Sagesser,1,female,24,0,0,69.3,No
+Miss. Margit Elizabeth Skoog,3,female,2,3,2,27.9,Yes
+Mr. Choong Foo,3,male,32,0,0,56.4958,No
+Miss. Eugenie Baclini,3,female,0.75,2,1,19.2583,No
+Mr. Henry Sleeper Harper,1,male,48,1,0,76.7292,No
+Mr. Liudevit Cor,3,male,19,0,0,7.8958,Yes
+Col. Oberst Alfons Simonius-Blumer,1,male,56,0,0,35.5,No
+Mr. Edward Willey,3,male,21,0,0,7.55,Yes
+Miss. Amy Zillah Elsie Stanley,3,female,23,0,0,7.55,No
+Mr. Mito Mitkoff,3,male,23,0,0,7.8958,Yes
+Miss. Elsie Doling,2,female,18,0,1,23,No
+Mr. Johannes Halvorsen Kalvik,3,male,21,0,0,8.4333,Yes
+Miss. Hanora O'Leary,3,female,16,0,0,7.8292,No
+Miss. Hanora Hegarty,3,female,18,0,0,6.75,Yes
+Mr. Leonard Mark Hickman,2,male,24,2,0,73.5,Yes
+Mr. Alexander Radeff,3,male,27,0,0,7.8958,Yes
+Mrs. John (Catherine) Bourke,3,female,32,1,1,15.5,Yes
+Mr. George Floyd Eitemiller,2,male,23,0,0,13,Yes
+Mr. Arthur Webster Newell,1,male,58,0,2,113.275,Yes
+Dr. Henry William Frauenthal,1,male,50,2,0,133.65,No
+Mr. Mohamed Badt,3,male,40,0,0,7.225,Yes
+Mr. Edward Pomeroy Colley,1,male,47,0,0,25.5875,Yes
+Mr. Peju Coleff,3,male,36,0,0,7.4958,Yes
+Mr. Eino William Lindqvist,3,male,20,1,0,7.925,No
+Mr. Lewis Hickman,2,male,32,2,0,73.5,Yes
+Mr. Reginald Fenton Butler,2,male,25,0,0,13,Yes
+Mr. Knud Paust Rommetvedt,3,male,49,0,0,7.775,Yes
+Mr. Jacob Cook,3,male,43,0,0,8.05,Yes
+Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor,1,female,48,1,0,52,No
+Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown,2,female,40,1,1,39,No
+Mr. Thornton Davidson,1,male,31,1,0,52,Yes
+Mr. Henry Michael Mitchell,2,male,70,0,0,10.5,Yes
+Mr. Charles Wilhelms,2,male,31,0,0,13,No
+Mr. Ennis Hastings Watson,2,male,19,0,0,0,Yes
+Mr. Gustaf Hjalmar Edvardsson,3,male,18,0,0,7.775,Yes
+Mr. Frederick Charles Sawyer,3,male,24.5,0,0,8.05,Yes
+Miss. Anna Sofia Turja,3,female,18,0,0,9.8417,No
+Mrs. Frederick (Augusta Tyler) Goodwin,3,female,43,1,6,46.9,Yes
+Mr. Thomas Drake Martinez Cardeza,1,male,36,0,1,512.3292,No
+Miss. Katie Peters,3,female,28,0,0,8.1375,Yes
+Mr. Hammad Hassab,1,male,27,0,0,76.7292,No
+Mr. Thor Anderson Olsvigen,3,male,20,0,0,9.225,Yes
+Mr. Charles Edward Goodwin,3,male,14,5,2,46.9,Yes
+Mr. Thomas William Solomon Brown,2,male,60,1,1,39,Yes
+Mr. Joseph Philippe Lemercier Laroche,2,male,25,1,2,41.5792,Yes
+Mr. Jaako Arnold Panula,3,male,14,4,1,39.6875,Yes
+Mr. Branko Dakic,3,male,19,0,0,10.1708,Yes
+Mr. Eberhard Thelander Fischer,3,male,18,0,0,7.7958,Yes
+Miss. Georgette Alexandra Madill,1,female,15,0,1,211.3375,No
+Mr. Albert Adrian Dick,1,male,31,1,0,57,No
+Miss. Manca Karun,3,female,4,0,1,13.4167,No
+Mr. Ali Lam,3,male,37,0,0,56.4958,No
+Mr. Khalil Saad,3,male,25,0,0,7.225,Yes
+Col. John Weir,1,male,60,0,0,26.55,Yes
+Mr. Charles Henry Chapman,2,male,52,0,0,13.5,Yes
+Mr. James Kelly,3,male,44,0,0,8.05,Yes
+Miss. Katherine Mullens,3,female,19,0,0,7.7333,No
+Mr. John Borland Thayer,1,male,49,1,1,110.8833,Yes
+Mr. Adolf Mathias Nicolai Olsen Humblen,3,male,42,0,0,7.65,Yes
+Mrs. John Jacob (Madeleine Talmadge Force) Astor,1,female,18,1,0,227.525,No
+Mr. Spencer Victor Silverthorne,1,male,35,0,0,26.2875,No
+Miss. Saiide Barbara,3,female,18,0,1,14.4542,Yes
+Mr. Martin Gallagher,3,male,25,0,0,7.7417,Yes
+Mr. Henrik Juul Hansen,3,male,26,1,0,7.8542,Yes
+Mr. Henry Samuel Morley,2,male,39,0,0,26,Yes
+Mrs. Florence Kelly,2,female,45,0,0,13.5,No
+Mr. Edward Pennington Calderhead,1,male,42,0,0,26.2875,No
+Miss. Alice Cleaver,1,female,22,0,0,151.55,No
+Master. Halim Gonios Moubarek,3,male,4,1,1,15.2458,No
+Mlle. Berthe Antonine Mayne,1,female,24,0,0,49.5042,No
+Mr. Herman Klaber,1,male,41,0,0,26.55,Yes
+Mr. Elmer Zebley Taylor,1,male,48,1,0,52,No
+Mr. August Viktor Larsson,3,male,29,0,0,9.4833,Yes
+Mr. Samuel Greenberg,2,male,52,0,0,13,Yes
+Mr. Peter Andreas Lauritz Andersen Soholt,3,male,19,0,0,7.65,Yes
+Miss. Caroline Louise Endres,1,female,38,0,0,227.525,No
+Miss. Edwina Celia Troutt,2,female,27,0,0,10.5,No
+Mr. Malkolm Joackim Johnson,3,male,33,0,0,7.775,Yes
+Miss. Annie Jessie Harper,2,female,6,0,1,33,No
+Mr. Svend Lauritz Jensen,3,male,17,1,0,7.0542,Yes
+Mr. William Henry Gillespie,2,male,34,0,0,13,Yes
+Mr. Henry Price Hodges,2,male,50,0,0,13,Yes
+Mr. Norman Campbell Chambers,1,male,27,1,0,53.1,No
+Mr. Luka Oreskovic,3,male,20,0,0,8.6625,Yes
+Mrs. Peter Henry (Lillian Jefferys) Renouf,2,female,30,3,0,21,No
+Miss. Margareth Mannion,3,female,28,0,0,7.7375,No
+Mr. Kurt Arnold Gottfrid Bryhl,2,male,25,1,0,26,Yes
+Miss. Pieta Sofia Ilmakangas,3,female,25,1,0,7.925,Yes
+Miss. Elisabeth Walton Allen,1,female,29,0,0,211.3375,No
+Mr. Houssein G N Hassan,3,male,11,0,0,18.7875,Yes
+Mr. Robert J Knight,2,male,41,0,0,0,Yes
+Mr. William John Berriman,2,male,23,0,0,13,Yes
+Mr. Moses Aaron Troupiansky,2,male,23,0,0,13,Yes
+Mr. Leslie Williams,3,male,28.5,0,0,16.1,Yes
+Mrs. Edward (Margaret Ann Watson) Ford,3,female,48,1,3,34.375,Yes
+Mr. Gustave J Lesurer,1,male,35,0,0,512.3292,No
+Mr. Kanio Ivanoff,3,male,20,0,0,7.8958,Yes
+Mr. Minko Nankoff,3,male,32,0,0,7.8958,Yes
+Mr. Walter James Hawksford,1,male,45,0,0,30,No
+Mr. Tyrell William Cavendish,1,male,36,1,0,78.85,Yes
+Miss. Susan Parker Ryerson,1,female,21,2,2,262.375,No
+Mr. Neal McNamee,3,male,24,1,0,16.1,Yes
+Mr. Juho Stranden,3,male,31,0,0,7.925,No
+Capt. Edward Gifford Crosby,1,male,70,1,1,71,Yes
+Mr. Rossmore Edward Abbott,3,male,16,1,1,20.25,Yes
+Miss. Anna Sinkkonen,2,female,30,0,0,13,No
+Mr. Daniel Warner Marvin,1,male,19,1,0,53.1,Yes
+Mr. Michael Connaghton,3,male,31,0,0,7.75,Yes
+Miss. Joan Wells,2,female,4,1,1,23,No
+Master. Meier Moor,3,male,6,0,1,12.475,No
+Mr. Johannes Joseph Vande Velde,3,male,33,0,0,9.5,Yes
+Mr. Lalio Jonkoff,3,male,23,0,0,7.8958,Yes
+Mrs. Samuel (Jane Laver) Herman,2,female,48,1,2,65,No
+Master. Viljo Hamalainen,2,male,0.67,1,1,14.5,No
+Mr. August Sigfrid Carlsson,3,male,28,0,0,7.7958,Yes
+Mr. Percy Andrew Bailey,2,male,18,0,0,11.5,Yes
+Mr. Thomas Leonard Theobald,3,male,34,0,0,8.05,Yes
+the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes,1,female,33,0,0,86.5,No
+Mr. John Garfirth,3,male,23,0,0,14.5,Yes
+Mr. Iisakki Antino Aijo Nirva,3,male,41,0,0,7.125,Yes
+Mr. Hanna Assi Barah,3,male,20,0,0,7.2292,No
+Mrs. William Ernest (Lucile Polk) Carter,1,female,36,1,2,120,No
+Mr. Hans Linus Eklund,3,male,16,0,0,7.775,Yes
+Mrs. John C (Anna Andrews) Hogeboom,1,female,51,1,0,77.9583,No
+Dr. Arthur Jackson Brewe,1,male,46,0,0,39.6,Yes
+Miss. Mary Mangan,3,female,30.5,0,0,7.75,Yes
+Mr. Daniel J Moran,3,male,28,1,0,24.15,Yes
+Mr. Daniel Danielsen Gronnestad,3,male,32,0,0,8.3625,Yes
+Mr. Rene Aime Lievens,3,male,24,0,0,9.5,Yes
+Mr. Niels Peder Jensen,3,male,48,0,0,7.8542,Yes
+Mrs. (Mary) Mack,2,female,57,0,0,10.5,Yes
+Mr. Dibo Elias,3,male,29,0,0,7.225,Yes
+Mrs. Elizabeth (Eliza Needs) Hocking,2,female,54,1,3,23,No
+Mr. Pehr Fabian Oliver Malkolm Myhrman,3,male,18,0,0,7.75,Yes
+Mr. Roger Tobin,3,male,20,0,0,7.75,Yes
+Miss. Virginia Ethel Emanuel,3,female,5,0,0,12.475,No
+Mr. Thomas J Kilgannon,3,male,22,0,0,7.7375,Yes
+Mrs. Edward Scott (Elisabeth Walton McMillan) Robert,1,female,43,0,1,211.3375,No
+Miss. Banoura Ayoub,3,female,13,0,0,7.2292,No
+Mrs. Albert Adrian (Vera Gillespie) Dick,1,female,17,1,0,57,No
+Mr. Milton Clyde Long,1,male,29,0,0,30,Yes
+Mr. Andrew G Johnston,3,male,35,1,2,23.45,Yes
+Mr. William Ali,3,male,25,0,0,7.05,Yes
+Mr. Abraham (David Lishin) Harmer,3,male,25,0,0,7.25,Yes
+Miss. Anna Sofia Sjoblom,3,female,18,0,0,7.4958,No
+Master. George Hugh Rice,3,male,8,4,1,29.125,Yes
+Master. Bertram Vere Dean,3,male,1,1,2,20.575,No
+Mr. Benjamin Guggenheim,1,male,46,0,0,79.2,Yes
+Mr. Andrew Keane,3,male,20,0,0,7.75,Yes
+Mr. Alfred Gaskell,2,male,16,0,0,26,Yes
+Miss. Stella Anna Sage,3,female,21,8,2,69.55,Yes
+Mr. William Fisher Hoyt,1,male,43,0,0,30.6958,Yes
+Mr. Ristiu Dantcheff,3,male,25,0,0,7.8958,Yes
+Mr. Richard Otter,2,male,39,0,0,13,Yes
+Dr. Alice (Farnham) Leader,1,female,49,0,0,25.9292,No
+Mrs. Mara Osman,3,female,31,0,0,8.6833,No
+Mr. Yousseff Ibrahim Shawah,3,male,30,0,0,7.2292,Yes
+Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe,3,female,30,1,1,24.15,Yes
+Mr. Martin Ponesell,2,male,34,0,0,13,Yes
+Mrs. Harvey (Charlotte Annie Tate) Collyer,2,female,31,1,1,26.25,No
+Master. William Thornton II Carter,1,male,11,1,2,120,No
+Master. Assad Alexander Thomas,3,male,0.42,0,1,8.5167,No
+Mr. Oskar Arvid Hedman,3,male,27,0,0,6.975,No
+Mr. Karl Johan Johansson,3,male,31,0,0,7.775,Yes
+Mr. Thomas Jr Andrews,1,male,39,0,0,0,Yes
+Miss. Ellen Natalia Pettersson,3,female,18,0,0,7.775,Yes
+Mr. August Meyer,2,male,39,0,0,13,Yes
+Mrs. Norman Campbell (Bertha Griggs) Chambers,1,female,33,1,0,53.1,No
+Mr. William Alexander,3,male,26,0,0,7.8875,Yes
+Mr. James Lester,3,male,39,0,0,24.15,Yes
+Mr. Richard James Slemen,2,male,35,0,0,10.5,Yes
+Miss. Ebba Iris Alfrida Andersson,3,female,6,4,2,31.275,Yes
+Mr. Ernest Portage Tomlin,3,male,30.5,0,0,8.05,Yes
+Mr. Richard Fry,1,male,39,0,0,0,Yes
+Miss. Wendla Maria Heininen,3,female,23,0,0,7.925,Yes
+Mr. Albert Mallet,2,male,31,1,1,37.0042,Yes
+Mr. John Fredrik Alexander Holm,3,male,43,0,0,6.45,Yes
+Master. Karl Thorsten Skoog,3,male,10,3,2,27.9,Yes
+Mrs. Charles Melville (Clara Jennings Gregg) Hays,1,female,52,1,1,93.5,No
+Mr. Nikola Lulic,3,male,27,0,0,8.6625,No
+Jonkheer. John George Reuchlin,1,male,38,0,0,0,Yes
+Mrs. (Beila) Moor,3,female,27,0,1,12.475,No
+Master. Urho Abraham Panula,3,male,2,4,1,39.6875,Yes
+Mr. John Flynn,3,male,36,0,0,6.95,Yes
+Mr. Len Lam,3,male,23,0,0,56.4958,Yes
+Master. Andre Mallet,2,male,1,0,2,37.0042,No
+Mr. Thomas Joseph McCormack,3,male,19,0,0,7.75,No
+Mrs. George Nelson (Martha Evelyn) Stone,1,female,62,0,0,80,No
+Mrs. Antoni (Selini Alexander) Yasbeck,3,female,15,1,0,14.4542,No
+Master. George Sibley Richards,2,male,0.83,1,1,18.75,No
+Mr. Amin Saad,3,male,30,0,0,7.2292,Yes
+Mr. Albert Augustsson,3,male,23,0,0,7.8542,Yes
+Mr. Owen George Allum,3,male,18,0,0,8.3,Yes
+Miss. Sara Rebecca Compton,1,female,39,1,1,83.1583,No
+Mr. Jakob Pasic,3,male,21,0,0,8.6625,Yes
+Mr. Maurice Sirota,3,male,20,0,0,8.05,Yes
+Mr. Chang Chip,3,male,32,0,0,56.4958,No
+Mr. Pierre Marechal,1,male,29,0,0,29.7,No
+Mr. Ilmari Rudolf Alhomaki,3,male,20,0,0,7.925,Yes
+Mr. Thomas Charles Mudd,2,male,16,0,0,10.5,Yes
+Miss. Augusta Serepeca,1,female,30,0,0,31,No
+Mr. Peter L Lemberopolous,3,male,34.5,0,0,6.4375,Yes
+Mr. Jeso Culumovic,3,male,17,0,0,8.6625,Yes
+Mr. Anthony Abbing,3,male,42,0,0,7.55,Yes
+Mr. Douglas Bullen Sage,3,male,18,8,2,69.55,Yes
+Mr. Marin Markoff,3,male,35,0,0,7.8958,Yes
+Rev. John Harper,2,male,28,0,1,33,Yes
+Mrs. Samuel L (Edwiga Grabowska) Goldenberg,1,female,40,1,0,89.1042,No
+Master. Sigvard Harald Elias Andersson,3,male,4,4,2,31.275,Yes
+Mr. Johan Svensson,3,male,74,0,0,7.775,Yes
+Miss. Nourelain Boulos,3,female,9,1,1,15.2458,Yes
+Miss. Mary Conover Lines,1,female,16,0,1,39.4,No
+Mrs. Ernest Courtenay (Lilian Hughes) Carter,2,female,44,1,0,26,Yes
+Mrs. Sam (Leah Rosen) Aks,3,female,18,0,1,9.35,No
+Mrs. George Dennick (Mary Hitchcock) Wick,1,female,45,1,1,164.8667,No
+Mr. Peter Denis Daly,1,male,51,0,0,26.55,No
+Mrs. Solomon (Latifa Qurban) Baclini,3,female,24,0,3,19.2583,No
+Mr. Raihed Razi,3,male,30,0,0,7.2292,Yes
+Mr. Claus Peter Hansen,3,male,41,2,0,14.1083,Yes
+Mr. Frederick Edward Giles,2,male,21,1,0,11.5,Yes
+Mrs. Frederick Joel (Margaret Welles Barron) Swift,1,female,48,0,0,25.9292,No
+Miss. Dorothy Edith Sage,3,female,14,8,2,69.55,Yes
+Mr. John William Gill,2,male,24,0,0,13,Yes
+Mrs. (Karolina) Bystrom,2,female,42,0,0,13,No
+Miss. Asuncion Duran y More,2,female,27,1,0,13.8583,No
+Mr. Washington Augustus II Roebling,1,male,31,0,0,50.4958,Yes
+Mr. Philemon van Melkebeke,3,male,23,0,0,9.5,Yes
+Master. Harold Theodor Johnson,3,male,4,1,1,11.1333,No
+Mr. Cerin Balkic,3,male,26,0,0,7.8958,Yes
+Mrs. Richard Leonard (Sallie Monypeny) Beckwith,1,female,47,1,1,52.5542,No
+Mr. Frans Olof Carlsson,1,male,33,0,0,5,Yes
+Mr. Victor Vander Cruyssen,3,male,47,0,0,9,Yes
+Mrs. Samuel (Hannah Wizosky) Abelson,2,female,28,1,0,24,No
+Miss. Adele Kiamie Najib,3,female,15,0,0,7.225,No
+Mr. Alfred Ossian Gustafsson,3,male,20,0,0,9.8458,Yes
+Mr. Nedelio Petroff,3,male,19,0,0,7.8958,Yes
+Mr. Kristo Laleff,3,male,23,0,0,7.8958,Yes
+Mrs. Thomas Jr (Lily Alexenia Wilson) Potter,1,female,56,0,1,83.1583,No
+Mrs. William (Imanita Parrish Hall) Shelley,2,female,25,0,1,26,No
+Mr. Johann Markun,3,male,33,0,0,7.8958,Yes
+Miss. Gerda Ulrika Dahlberg,3,female,22,0,0,10.5167,Yes
+Mr. Frederick James Banfield,2,male,28,0,0,10.5,Yes
+Mr. Henry Jr Sutehall,3,male,25,0,0,7.05,Yes
+Mrs. William (Margaret Norton) Rice,3,female,39,0,5,29.125,Yes
+Rev. Juozas Montvila,2,male,27,0,0,13,Yes
+Miss. Margaret Edith Graham,1,female,19,0,0,30,No
+Miss. Catherine Helen Johnston,3,female,7,1,2,23.45,Yes
+Mr. Karl Howell Behr,1,male,26,0,0,30,No
+Mr. Patrick Dooley,3,male,32,0,0,7.75,Yes
