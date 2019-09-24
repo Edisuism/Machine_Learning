@@ -1,0 +1,121 @@
+ID,Religion,Cohort,Residence,Gender,Member
+1,Protestant,Empire,Rural,Male,Yes
+2,Protestant,Empire,Rural,Female,Yes
+3,Catholic,Empire,Rural,Male,Yes
+4,Catholic,Empire,Rural,Female,Yes
+5,None,Empire,Rural,Male,Yes
+6,None,Empire,Rural,Female,Yes
+7,Protestant,Late Empire,Rural,Male,Yes
+8,Protestant,Late Empire,Rural,Female,Yes
+9,Catholic,Late Empire,Rural,Male,Yes
+10,Catholic,Late Empire,Rural,Female,Yes
+11,None,Late Empire,Rural,Male,Yes
+12,None,Late Empire,Rural,Female,Yes
+13,Protestant,Early Weimar,Rural,Male,Yes
+14,Protestant,Early Weimar,Rural,Female,Yes
+15,Catholic,Early Weimar,Rural,Male,Yes
+16,Catholic,Early Weimar,Rural,Female,Yes
+17,None,Early Weimar,Rural,Male,Yes
+18,None,Early Weimar,Rural,Female,Yes
+19,Protestant,Late Weimar,Rural,Male,Yes
+20,Protestant,Late Weimar,Rural,Female,Yes
+21,Catholic,Late Weimar,Rural,Male,Yes
+22,Catholic,Late Weimar,Rural,Female,Yes
+23,None,Late Weimar,Rural,Male,Yes
+24,None,Late Weimar,Rural,Female,Yes
+25,Protestant,3rd Reich,Rural,Male,Yes
+26,Protestant,3rd Reich,Rural,Female,Yes
+27,Catholic,3rd Reich,Rural,Male,Yes
+28,Catholic,3rd Reich,Rural,Female,Yes
+29,None,3rd Reich,Rural,Male,Yes
+30,None,3rd Reich,Rural,Female,Yes
+31,Protestant,Empire,Urban,Male,Yes
+32,Protestant,Empire,Urban,Female,Yes
+33,Catholic,Empire,Urban,Male,Yes
+34,Catholic,Empire,Urban,Female,Yes
+35,None,Empire,Urban,Male,Yes
+36,None,Empire,Urban,Female,Yes
+37,Protestant,Late Empire,Urban,Male,Yes
+38,Protestant,Late Empire,Urban,Female,Yes
+39,Catholic,Late Empire,Urban,Male,Yes
+40,Catholic,Late Empire,Urban,Female,Yes
+41,None,Late Empire,Urban,Male,Yes
+42,None,Late Empire,Urban,Female,Yes
+43,Protestant,Early Weimar,Urban,Male,Yes
+44,Protestant,Early Weimar,Urban,Female,Yes
+45,Catholic,Early Weimar,Urban,Male,Yes
+46,Catholic,Early Weimar,Urban,Female,Yes
+47,None,Early Weimar,Urban,Male,Yes
+48,None,Early Weimar,Urban,Female,Yes
+49,Protestant,Late Weimar,Urban,Male,Yes
+50,Protestant,Late Weimar,Urban,Female,Yes
+51,Catholic,Late Weimar,Urban,Male,Yes
+52,Catholic,Late Weimar,Urban,Female,Yes
+53,None,Late Weimar,Urban,Male,Yes
+54,None,Late Weimar,Urban,Female,Yes
+55,Protestant,3rd Reich,Urban,Male,Yes
+56,Protestant,3rd Reich,Urban,Female,Yes
+57,Catholic,3rd Reich,Urban,Male,Yes
+58,Catholic,3rd Reich,Urban,Female,Yes
+59,None,3rd Reich,Urban,Male,Yes
+60,None,3rd Reich,Urban,Female,Yes
+61,Protestant,Empire,Rural,Male,No
+62,Protestant,Empire,Rural,Female,No
+63,Catholic,Empire,Rural,Male,No
+64,Catholic,Empire,Rural,Female,No
+65,None,Empire,Rural,Male,No
+66,None,Empire,Rural,Female,No
+67,Protestant,Late Empire,Rural,Male,No
+68,Protestant,Late Empire,Rural,Female,No
+69,Catholic,Late Empire,Rural,Male,No
+70,Catholic,Late Empire,Rural,Female,No
+71,None,Late Empire,Rural,Male,No
+72,None,Late Empire,Rural,Female,No
+73,Protestant,Early Weimar,Rural,Male,No
+74,Protestant,Early Weimar,Rural,Female,No
+75,Catholic,Early Weimar,Rural,Male,No
+76,Catholic,Early Weimar,Rural,Female,No
+77,None,Early Weimar,Rural,Male,No
+78,None,Early Weimar,Rural,Female,No
+79,Protestant,Late Weimar,Rural,Male,No
+80,Protestant,Late Weimar,Rural,Female,No
+81,Catholic,Late Weimar,Rural,Male,No
+82,Catholic,Late Weimar,Rural,Female,No
+83,None,Late Weimar,Rural,Male,No
+84,None,Late Weimar,Rural,Female,No
+85,Protestant,3rd Reich,Rural,Male,No
+86,Protestant,3rd Reich,Rural,Female,No
+87,Catholic,3rd Reich,Rural,Male,No
+88,Catholic,3rd Reich,Rural,Female,No
+89,None,3rd Reich,Rural,Male,No
+90,None,3rd Reich,Rural,Female,No
+91,Protestant,Empire,Urban,Male,No
+92,Protestant,Empire,Urban,Female,No
+93,Catholic,Empire,Urban,Male,No
+94,Catholic,Empire,Urban,Female,No
+95,None,Empire,Urban,Male,No
+96,None,Empire,Urban,Female,No
+97,Protestant,Late Empire,Urban,Male,No
+98,Protestant,Late Empire,Urban,Female,No
+99,Catholic,Late Empire,Urban,Male,No
+100,Catholic,Late Empire,Urban,Female,No
+101,None,Late Empire,Urban,Male,No
+102,None,Late Empire,Urban,Female,No
+103,Protestant,Early Weimar,Urban,Male,No
+104,Protestant,Early Weimar,Urban,Female,No
+105,Catholic,Early Weimar,Urban,Male,No
+106,Catholic,Early Weimar,Urban,Female,No
+107,None,Early Weimar,Urban,Male,No
+108,None,Early Weimar,Urban,Female,No
+109,Protestant,Late Weimar,Urban,Male,No
+110,Protestant,Late Weimar,Urban,Female,No
+111,Catholic,Late Weimar,Urban,Male,No
+112,Catholic,Late Weimar,Urban,Female,No
+113,None,Late Weimar,Urban,Male,No
+114,None,Late Weimar,Urban,Female,No
+115,Protestant,3rd Reich,Urban,Male,No
+116,Protestant,3rd Reich,Urban,Female,No
+117,Catholic,3rd Reich,Urban,Male,No
+118,Catholic,3rd Reich,Urban,Female,No
+119,None,3rd Reich,Urban,Male,No
+120,None,3rd Reich,Urban,Female,No
